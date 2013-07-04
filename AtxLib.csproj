@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Behaviors\Actions\Windows\WindowScreenMessageAction.cs" />
+    <Compile Include="Behaviors\AtxCallMethodAction.cs" />
     <Compile Include="Messaging\Windows\WindowScreenMessage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
